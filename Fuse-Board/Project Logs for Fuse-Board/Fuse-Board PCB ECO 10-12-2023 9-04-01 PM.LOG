@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Fuse-Board Member=R1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Added Member To Class: ClassName=Fuse-Board Member=Component J1 XT60PW-F
+Added Member To Class: ClassName=Fuse-Board Member=Component J3 XT30PW-F
+Added Member To Class: ClassName=Fuse-Board Member=Component J4 XT30PW-F
+Added Member To Class: ClassName=Fuse-Board Member=Component J5 XT30PW-F
+Added Member To Class: ClassName=Fuse-Board Member=Component J6 XT30PW-F
+Added Member To Class: ClassName=Fuse-Board Member=Component J7 XT30PW-F

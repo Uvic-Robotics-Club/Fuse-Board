@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Change Footprint: Footprint Not Found AMASS_XT90PW-F
+Change Component Comment : Designator=J1 Old Comment=XT60PW-F New Comment=XT90PW-F
+Change component parameters: Designator = "J1" ("J1"); Footprint = "AMASS_XT60PW-F"; UniqueID = "\PROTMSBZ" ("\PROTMSBZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT90PW-F/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "XT90PW-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT90PW-F/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-N
+Add Pin To Net: Unknown Pin: Pin J1-P
+Added Member To Class: ClassName=Fuse-Board Member=Component J2 XT30PW-F
